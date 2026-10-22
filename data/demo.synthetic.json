@@ -1,0 +1,14 @@
+{
+  "mode": "SYNTHETIC_DEMO",
+  "disclaimer": "Données entièrement fictives, pas des statistiques françaises",
+  "weights": [
+    {
+      "territory": "FICTIF_A",
+      "weight": 1
+    },
+    {
+      "territory": "FICTIF_B",
+      "weight": 1
+    }
+  ]
+}
